@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <img src="assets/img/gaysub.jpeg" alt="Banner" width="100%" height="270" style="border-radius: 20px;" />
+    <img src="assets/img/gaysub.jpeg" alt="Banner" width="100%" style="border-radius: 20px;" />
   </div>
 </header>
 
